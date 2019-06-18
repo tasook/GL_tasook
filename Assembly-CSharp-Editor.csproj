@@ -214,6 +214,9 @@
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/Matteo Morando/Github/GL_tasook/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Cinemachine">
+      <HintPath>C:/Users/Matteo Morando/Github/GL_tasook/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/Matteo Morando/Github/GL_tasook/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
@@ -225,6 +228,9 @@
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
       <HintPath>C:/Users/Matteo Morando/Github/GL_tasook/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="com.unity.cinemachine.editor">
+      <HintPath>C:/Users/Matteo Morando/Github/GL_tasook/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>C:/Users/Matteo Morando/Github/GL_tasook/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
