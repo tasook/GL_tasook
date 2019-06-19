@@ -24,7 +24,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp\bin\Debug\</OutputPath>
-    <DefineConstants>DEBUG;TRACE;UNITY_2019_1_5;UNITY_2019_1;UNITY_2019;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2019_1_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_SPRITES;ENABLE_GRID;ENABLE_TILEMAP;ENABLE_TERRAIN;ENABLE_TEXTURE_STREAMING;ENABLE_DIRECTOR;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_TIMELINE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;INCLUDE_DYNAMIC_GI;INCLUDE_GI;ENABLE_MONO_BDWGC;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_VIDEO;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_LOCALIZATION;PLATFORM_STANDALONE_WIN;PLATFORM_STANDALONE;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_SCRIPTING_GC_WBARRIERS;ENABLE_EVENT_QUEUE;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;ENABLE_VR;ENABLE_AR;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_STANDARD_2_0;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_VSTU;PLAYMAKER;PLAYMAKER_1_9;PLAYMAKER_1_9_0;PLAYMAKER_1_8_OR_NEWER;PLAYMAKER_1_8_5_OR_NEWER;PLAYMAKER_1_9_OR_NEWER;ECOSYSTEM;ECOSYSTEM_0_6;ECOSYSTEM_0_6_OR_NEWER;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <DefineConstants>DEBUG;TRACE;UNITY_2019_1_5;UNITY_2019_1;UNITY_2019;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2019_1_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_SPRITES;ENABLE_GRID;ENABLE_TILEMAP;ENABLE_TERRAIN;ENABLE_TEXTURE_STREAMING;ENABLE_DIRECTOR;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_TIMELINE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;INCLUDE_DYNAMIC_GI;INCLUDE_GI;ENABLE_MONO_BDWGC;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_VIDEO;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_LOCALIZATION;PLATFORM_STANDALONE_WIN;PLATFORM_STANDALONE;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_SCRIPTING_GC_WBARRIERS;ENABLE_EVENT_QUEUE;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;ENABLE_VR;ENABLE_AR;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_STANDARD_2_0;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_VSTU;PLAYMAKER;PLAYMAKER_1_9;PLAYMAKER_1_9_0;PLAYMAKER_1_8_OR_NEWER;PLAYMAKER_1_8_5_OR_NEWER;PLAYMAKER_1_9_OR_NEWER;ECOSYSTEM;ECOSYSTEM_0_6;ECOSYSTEM_0_6_OR_NEWER;PLAYMAKER_UTILS;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169</NoWarn>
@@ -387,6 +387,83 @@
     <Compile Include="Assets\Oculus\VoiceMod\Scripts\Helpers\OVRMicInput.cs" />
     <Compile Include="Assets\Oculus\VoiceMod\Scripts\OVRVoiceMod.cs" />
     <Compile Include="Assets\Oculus\VoiceMod\Scripts\OVRVoiceModContext.cs" />
+    <Compile Include="Assets\PlayMaker Cinemachine\Actions\Common\CinemachineActionBase.cs" />
+    <Compile Include="Assets\PlayMaker Cinemachine\Actions\Common\CinemachineActionGetAxisSettingsBase.cs" />
+    <Compile Include="Assets\PlayMaker Cinemachine\Actions\Common\CinemachineActionGetLensSettingsBase.cs" />
+    <Compile Include="Assets\PlayMaker Cinemachine\Actions\Common\CinemachineActionHeader.cs" />
+    <Compile Include="Assets\PlayMaker Cinemachine\Actions\Common\CinemachineActionSetAxisSettingsBase.cs" />
+    <Compile Include="Assets\PlayMaker Cinemachine\Actions\Common\CinemachineActionSetLensSettingsBase.cs" />
+    <Compile Include="Assets\PlayMaker Cinemachine\Actions\Common\CinemachineGetCameraActivateEventInfo.cs" />
+    <Compile Include="Assets\PlayMaker Cinemachine\Actions\Extensions\ColliderGetProperties.cs" />
+    <Compile Include="Assets\PlayMaker Cinemachine\Actions\Extensions\ColliderSetProperties.cs" />
+    <Compile Include="Assets\PlayMaker Cinemachine\Actions\Extensions\ConfinerGetProperties.cs" />
+    <Compile Include="Assets\PlayMaker Cinemachine\Actions\Extensions\ConfinerInvalidatePathCache.cs" />
+    <Compile Include="Assets\PlayMaker Cinemachine\Actions\Extensions\ConfinerSetProperties.cs" />
+    <Compile Include="Assets\PlayMaker Cinemachine\Actions\Extensions\FollowZoomGetProperties.cs" />
+    <Compile Include="Assets\PlayMaker Cinemachine\Actions\Extensions\FollowZoomSetProperties.cs" />
+    <Compile Include="Assets\PlayMaker Cinemachine\Actions\Extensions\GenerateImpulse.cs" />
+    <Compile Include="Assets\PlayMaker Cinemachine\Actions\Extensions\ImpulseListenerGetProperties.cs" />
+    <Compile Include="Assets\PlayMaker Cinemachine\Actions\Extensions\ImpulseListenerSetProperties.cs" />
+    <Compile Include="Assets\PlayMaker Cinemachine\Actions\Extensions\ImpulseSourceGetProperties.cs" />
+    <Compile Include="Assets\PlayMaker Cinemachine\Actions\Extensions\ImpulseSourceSetProperties.cs" />
+    <Compile Include="Assets\PlayMaker Cinemachine\Actions\FreeLookCamera\FreeLookCameraGetLensSettings.cs" />
+    <Compile Include="Assets\PlayMaker Cinemachine\Actions\FreeLookCamera\FreeLookCameraGetRigSettings.cs" />
+    <Compile Include="Assets\PlayMaker Cinemachine\Actions\FreeLookCamera\FreeLookCameraGetXaxisSettings.cs" />
+    <Compile Include="Assets\PlayMaker Cinemachine\Actions\FreeLookCamera\FreeLookCameraGetYaxisSettings.cs" />
+    <Compile Include="Assets\PlayMaker Cinemachine\Actions\FreeLookCamera\FreeLookCameraSetLensSettings.cs" />
+    <Compile Include="Assets\PlayMaker Cinemachine\Actions\FreeLookCamera\FreeLookCameraSetRigSettings.cs" />
+    <Compile Include="Assets\PlayMaker Cinemachine\Actions\FreeLookCamera\FreeLookCameraSetXaxisSettings.cs" />
+    <Compile Include="Assets\PlayMaker Cinemachine\Actions\FreeLookCamera\FreeLookCameraSetYaxisSettings.cs" />
+    <Compile Include="Assets\PlayMaker Cinemachine\Actions\Rigs\MixingCameraSetWeights.cs" />
+    <Compile Include="Assets\PlayMaker Cinemachine\Actions\VirtualCamera\VirtualCameraGetFollowTarget.cs" />
+    <Compile Include="Assets\PlayMaker Cinemachine\Actions\VirtualCamera\VirtualCameraGetLensSettings.cs" />
+    <Compile Include="Assets\PlayMaker Cinemachine\Actions\VirtualCamera\VirtualCameraGetLookAtTarget.cs" />
+    <Compile Include="Assets\PlayMaker Cinemachine\Actions\VirtualCamera\VirtualCameraGetPriority.cs" />
+    <Compile Include="Assets\PlayMaker Cinemachine\Actions\VirtualCamera\VirtualCameraSetFollowTarget.cs" />
+    <Compile Include="Assets\PlayMaker Cinemachine\Actions\VirtualCamera\VirtualCameraSetLensSettings.cs" />
+    <Compile Include="Assets\PlayMaker Cinemachine\Actions\VirtualCamera\VirtualCameraSetLookAtTarget.cs" />
+    <Compile Include="Assets\PlayMaker Cinemachine\Actions\VirtualCamera\VirtualCameraSetPriority.cs" />
+    <Compile Include="Assets\PlayMaker Cinemachine\Components\CinemachineBrainProxy.cs" />
+    <Compile Include="Assets\PlayMaker Cinemachine\Components\CinemachineColliderExtensionProxy.cs" />
+    <Compile Include="Assets\PlayMaker Cinemachine\Components\CinemachineCoreGetInputTouchAxis.cs" />
+    <Compile Include="Assets\PlayMaker Custom Actions\Application\TakeCameraScreenshot.cs" />
+    <Compile Include="Assets\PlayMaker Custom Actions\Application\TakeCameraScreenshotTexture.cs" />
+    <Compile Include="Assets\PlayMaker Custom Actions\Application\TakeScreenshotLateUpdate.cs" />
+    <Compile Include="Assets\PlayMaker Custom Actions\Timeline\pauseTimeline.cs" />
+    <Compile Include="Assets\PlayMaker Custom Actions\Timeline\playTimeline.cs" />
+    <Compile Include="Assets\PlayMaker Custom Actions\Timeline\resumeTimeline.cs" />
+    <Compile Include="Assets\PlayMaker Custom Actions\Timeline\setTimelineCurrentTime.cs" />
+    <Compile Include="Assets\PlayMaker Utils\Actions\MonoBehaviour\TransformEventsBridge.cs" />
+    <Compile Include="Assets\PlayMaker Utils\Components\Comment.cs" />
+    <Compile Include="Assets\PlayMaker Utils\Event Properties\Actions\GetEventProperties.cs" />
+    <Compile Include="Assets\PlayMaker Utils\Event Properties\Actions\SetEventProperties.cs" />
+    <Compile Include="Assets\PlayMaker Utils\Extensions\PlayMakerUtils_extensions.cs" />
+    <Compile Include="Assets\PlayMaker Utils\Internal\EventDataSenderProxy.cs" />
+    <Compile Include="Assets\PlayMaker Utils\Internal\PlayMakerUtilsDotNetExtensions.cs" />
+    <Compile Include="Assets\PlayMaker Utils\PlayMakerUtils.cs" />
+    <Compile Include="Assets\PlayMaker Utils\PlayMakerUtils_conversions.cs" />
+    <Compile Include="Assets\PlayMaker Utils\PlayMakerUtils_Events.cs" />
+    <Compile Include="Assets\PlayMaker Utils\PlayMakerUtils_Fsm.cs" />
+    <Compile Include="Assets\PlayMaker Utils\PlayMakerUtils_FsmVar.cs" />
+    <Compile Include="Assets\PlayMaker Utils\PlayMakerUtils_Serialization.cs" />
+    <Compile Include="Assets\PlayMaker Utils\PropertyDrawers\ButtonAttribute\ButtonAttribute.cs" />
+    <Compile Include="Assets\PlayMaker Utils\PropertyDrawers\GenericAttributes\EventTargetVariableAttribute.cs" />
+    <Compile Include="Assets\PlayMaker Utils\PropertyDrawers\GenericAttributes\ExpectComponentAttribute.cs" />
+    <Compile Include="Assets\PlayMaker Utils\PropertyDrawers\GenericAttributes\FsmVariableTargetVariableAttribute.cs" />
+    <Compile Include="Assets\PlayMaker Utils\PropertyDrawers\GenericAttributes\FsmVariableTypeAttribute.cs" />
+    <Compile Include="Assets\PlayMaker Utils\PropertyDrawers\GenericAttributes\RequiredAttribute.cs" />
+    <Compile Include="Assets\PlayMaker Utils\PropertyDrawers\GenericAttributes\ShowOptionsAttribute.cs" />
+    <Compile Include="Assets\PlayMaker Utils\PropertyDrawers\MainCameraTarget\MainCameraTarget.cs" />
+    <Compile Include="Assets\PlayMaker Utils\PropertyDrawers\Owner\OwnerClass.cs" />
+    <Compile Include="Assets\PlayMaker Utils\PropertyDrawers\PlayMakerEvent\PlayMakerEvent.cs" />
+    <Compile Include="Assets\PlayMaker Utils\PropertyDrawers\PlayMakerEventTarget\PlayMakerEventTarget.cs" />
+    <Compile Include="Assets\PlayMaker Utils\PropertyDrawers\PlayMakerFsmTarget\PlayMakerFsmTarget.cs" />
+    <Compile Include="Assets\PlayMaker Utils\PropertyDrawers\PlayMakerFsmVariable\PlayMakerFsmVariable.cs" />
+    <Compile Include="Assets\PlayMaker Utils\PropertyDrawers\PlayMakerFsmVariableTarget\PlayMakerFsmVariableTarget.cs" />
+    <Compile Include="Assets\PlayMaker Utils\PropertyDrawers\PlayMakerTimelineEventTarget\PlayMakerTimelineEventTarget.cs" />
+    <Compile Include="Assets\PlayMaker Utils\Scripts\VersionInfo.cs" />
+    <Compile Include="Assets\PlayMaker Utils\Wizards\LinkerWizard\LinkerData.cs" />
+    <Compile Include="Assets\PlayMaker Utils\Wizards\PlayMakerEventProxy\PlayMakerEventProxy.cs" />
     <Compile Include="Assets\PlayMaker\Actions\ActionHelpers.cs" />
     <Compile Include="Assets\PlayMaker\Actions\AnimateVariables\AnimateColor.cs" />
     <Compile Include="Assets\PlayMaker\Actions\AnimateVariables\AnimateFloat.cs" />
@@ -1245,6 +1322,8 @@
     <Compile Include="Assets\PlayMaker\Actions\Web\WWWObject.cs" />
     <Compile Include="Assets\PlayMaker\FsmProcessor.cs" />
     <Compile Include="Assets\PlayMaker\UpdateHelper.cs" />
+    <Compile Include="Assets\ScreenCaptureScript.cs" />
+    <Compile Include="Assets\ScreenCaptureTall.cs" />
     <None Include="Assets\PlayMaker\Templates\Readme.txt" />
     <None Include="Assets\Oculus\Avatar\Resources\Materials\Version1.5\Avatar_PC_SingleComponent.shader" />
     <None Include="Assets\PlayMaker\Readme.txt" />
@@ -1257,6 +1336,7 @@
     <None Include="Assets\Oculus\SampleFramework\Core\CustomHands\Shaders\Hands_02.shader" />
     <None Include="Assets\Oculus\SampleFramework\Usage\Stereo180Video\Plugins\Android\Audio360\ThirdPartyNotices.txt" />
     <None Include="Assets\Oculus\Avatar\Resources\Materials\AvatarSurfaceShaderSelfOccluding.shader" />
+    <None Include="Assets\PlayMaker Utils\External Libraries\Rotorz\Reorderable List Field\README.txt" />
     <None Include="Assets\Oculus\Avatar\Resources\Materials\AvatarSurfaceShaderPBS.shader" />
     <None Include="Assets\Oculus\Avatar\Samples\SocialStarter\README.txt" />
     <None Include="Assets\Oculus\SampleFramework\license.txt" />
@@ -1267,6 +1347,7 @@
     <None Include="Assets\Oculus\SampleFramework\Core\CustomHands\Shaders\Hands_01.shader" />
     <None Include="Assets\PlayMaker\Resources\PlayMakerAssemblies.txt" />
     <None Include="Assets\Oculus\Avatar\Resources\Materials\Expressive\Avatar_Mobile_SingleComponentExpressive.shader" />
+    <None Include="Assets\PlayMaker Utils\External Libraries\Rotorz\Reorderable List Field\LICENSE.txt" />
     <None Include="Assets\Oculus\SampleFramework\Core\DebugUI\Fonts\Montserrat\OFL.txt" />
     <None Include="Assets\Oculus\Avatar\Resources\Materials\AvatarSurfaceShaderPBSV2.shader" />
     <None Include="Assets\Oculus\Avatar\Resources\Materials\Version1.5\Avatar_Mobile_SingleComponent.shader" />

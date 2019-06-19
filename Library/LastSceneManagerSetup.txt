@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Room Setup 02 - cinemachine.unity
+- path: Assets/Scenes/Magic Mirror 03 - Take Photos.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
