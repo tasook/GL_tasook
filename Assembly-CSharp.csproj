@@ -1375,12 +1375,6 @@
     <Reference Include="Unity.CollabProxy.Editor">
       <HintPath>C:/Users/Matteo Morando/Github/GL_tasook/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Postprocessing.Editor">
-      <HintPath>C:/Users/Matteo Morando/Github/GL_tasook/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Postprocessing.Runtime">
-      <HintPath>C:/Users/Matteo Morando/Github/GL_tasook/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
-    </Reference>
     <Reference Include="com.unity.cinemachine.editor">
       <HintPath>C:/Users/Matteo Morando/Github/GL_tasook/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
     </Reference>

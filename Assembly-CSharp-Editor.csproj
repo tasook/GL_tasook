@@ -100,6 +100,8 @@
     <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\Editor\TeleportTransitionWarpInspector.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Editor\BuildAssetPackages.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Editor\OculusSampleFrameworkUtil.cs" />
+    <Compile Include="Assets\Oculus\Spatializer\editor\ONSPAudioPluginUpdater.cs" />
+    <Compile Include="Assets\Oculus\Spatializer\editor\ONSPAudioPluginUpdaterStub.cs" />
     <Compile Include="Assets\Oculus\Spatializer\editor\ONSPAudioSourceEditor.cs" />
     <Compile Include="Assets\Oculus\Spatializer\editor\ONSPPropagationGeometryEditor.cs" />
     <Compile Include="Assets\Oculus\Spatializer\editor\ONSPPropagationMaterialEditor.cs" />
@@ -279,12 +281,6 @@
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
       <HintPath>C:/Users/Matteo Morando/Github/GL_tasook/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Postprocessing.Editor">
-      <HintPath>C:/Users/Matteo Morando/Github/GL_tasook/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Postprocessing.Runtime">
-      <HintPath>C:/Users/Matteo Morando/Github/GL_tasook/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.cinemachine.editor">
       <HintPath>C:/Users/Matteo Morando/Github/GL_tasook/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
