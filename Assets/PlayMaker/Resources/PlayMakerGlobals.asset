@@ -67,4 +67,9 @@ MonoBehaviour:
     categories:
     - 
     variableCategoryIDs: 000000000000000000000000000000000000000000000000
-  events: []
+  events:
+  - STEP_01
+  - STEP_02
+  - STEP_04
+  - STEP_05
+  - STEP_06
