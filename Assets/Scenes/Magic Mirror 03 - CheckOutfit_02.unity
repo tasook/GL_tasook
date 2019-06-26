@@ -1101,7 +1101,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 107405031}
-  m_LocalRotation: {x: 5.6102756e-10, y: 0.995156, z: -0.098308496, w: 5.542233e-11}
+  m_LocalRotation: {x: -0.0000000023687952, y: 0.995156, z: -0.098308526, w: -0.00000002960254}
   m_LocalPosition: {x: 0, y: 1.2, z: 3.759}
   m_LocalScale: {x: -1, y: 1, z: 1}
   m_Children:
@@ -4671,7 +4671,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 398567973}
-  m_LocalRotation: {x: 5.6103e-10, y: 0.995156, z: -0.098308496, w: 5.5420588e-11}
+  m_LocalRotation: {x: 0.0000000034908527, y: 0.995156, z: -0.098308526, w: 0.000000029713384}
   m_LocalPosition: {x: 0, y: 1.2, z: 3.759}
   m_LocalScale: {x: -1, y: 1, z: 1}
   m_Children:
@@ -10550,24 +10550,34 @@ MonoBehaviour:
         x: 164.5
         y: 564.5
         width: 143
-        height: 16
+        height: 32
       isBreakpoint: 0
       isSequence: 0
       hideUnused: 0
-      transitions: []
+      transitions:
+      - fsmEvent:
+          name: FINISHED
+          isSystemEvent: 1
+          isGlobal: 0
+        toState: Wait for button 5
+        linkStyle: 0
+        linkConstraint: 0
+        colorIndex: 0
       actionData:
         actionNames:
         - HutongGames.PlayMaker.Actions.ActivateGameObject
         - HutongGames.PlayMaker.Actions.AnimatorPlay
         - HutongGames.PlayMaker.Actions.GetTouchButton
+        - HutongGames.PlayMaker.Actions.Wait
         customNames:
         - 
         - 
         - 
-        actionEnabled: 010101
-        actionIsOpen: 010101
-        actionStartIndex: 00000000050000000a000000
-        actionHashCodes: b2cf1000c34b410588df3f00
+        - 
+        actionEnabled: 01010001
+        actionIsOpen: 01010101
+        actionStartIndex: 00000000050000000a0000000f000000
+        actionHashCodes: b2cf1000c34b410588df3f0048c01101
         unityObjectParams: []
         fsmGameObjectParams: []
         fsmOwnerDefaultParams:
@@ -10611,6 +10621,12 @@ MonoBehaviour:
           showInInspector: 0
           networkSync: 0
           value: 0
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 2
         fsmIntParams:
         - useVariable: 1
           name: 
@@ -10644,12 +10660,13 @@ MonoBehaviour:
         fsmQuaternionParams: []
         stringParams:
         - STEP_07
-        byteData: 000000010000000500000002000000
+        - FINISHED
+        byteData: 00000001000000050000000200000000
         arrayParamSizes: 
         arrayParamTypes: []
         customTypeSizes: 
         customTypeNames: []
-        paramDataType: 14000000110000001100000001000000010000001400000012000000100000000f000000010000000700000007000000070000001700000011000000
+        paramDataType: 14000000110000001100000001000000010000001400000012000000100000000f0000000100000007000000070000000700000017000000110000000f0000001700000001000000
         paramName:
         - gameObject
         - activate
@@ -10666,8 +10683,11 @@ MonoBehaviour:
         - buttonType
         - sendEvent
         - storeResult
-        paramDataPos: 0000000000000000010000000000000001000000010000000000000000000000000000000200000003000000070000000b0000000000000002000000
-        paramByteDataSize: 000000000000000000000000010000000100000000000000000000000000000000000000010000000400000004000000040000000000000000000000
+        - time
+        - finishEvent
+        - realTime
+        paramDataPos: 0000000000000000010000000000000001000000010000000000000000000000000000000200000003000000070000000b000000000000000200000001000000010000000f000000
+        paramByteDataSize: 000000000000000000000000010000000100000000000000000000000000000000000000010000000400000004000000040000000000000000000000000000000000000001000000
     - name: Take Photo 5
       description: 
       colorIndex: 0
@@ -10763,24 +10783,34 @@ MonoBehaviour:
         x: 420.5
         y: 563.5
         width: 143
-        height: 16
+        height: 32
       isBreakpoint: 0
       isSequence: 0
       hideUnused: 0
-      transitions: []
+      transitions:
+      - fsmEvent:
+          name: FINISHED
+          isSystemEvent: 1
+          isGlobal: 0
+        toState: Wait for button 6
+        linkStyle: 0
+        linkConstraint: 0
+        colorIndex: 0
       actionData:
         actionNames:
         - HutongGames.PlayMaker.Actions.ActivateGameObject
         - HutongGames.PlayMaker.Actions.AnimatorPlay
         - HutongGames.PlayMaker.Actions.GetTouchButton
+        - HutongGames.PlayMaker.Actions.Wait
         customNames:
         - 
         - 
         - 
-        actionEnabled: 010101
-        actionIsOpen: 010101
-        actionStartIndex: 00000000050000000a000000
-        actionHashCodes: b2cf1000c34b410588df3f00
+        - 
+        actionEnabled: 01010001
+        actionIsOpen: 01010101
+        actionStartIndex: 00000000050000000a0000000f000000
+        actionHashCodes: b2cf1000c34b410588df3f0048c01101
         unityObjectParams: []
         fsmGameObjectParams: []
         fsmOwnerDefaultParams:
@@ -10824,6 +10854,12 @@ MonoBehaviour:
           showInInspector: 0
           networkSync: 0
           value: 0
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 2
         fsmIntParams:
         - useVariable: 1
           name: 
@@ -10857,12 +10893,13 @@ MonoBehaviour:
         fsmQuaternionParams: []
         stringParams:
         - STEP_08
-        byteData: 000000010000000500000002000000
+        - FINISHED
+        byteData: 00000001000000050000000200000000
         arrayParamSizes: 
         arrayParamTypes: []
         customTypeSizes: 
         customTypeNames: []
-        paramDataType: 14000000110000001100000001000000010000001400000012000000100000000f000000010000000700000007000000070000001700000011000000
+        paramDataType: 14000000110000001100000001000000010000001400000012000000100000000f0000000100000007000000070000000700000017000000110000000f0000001700000001000000
         paramName:
         - gameObject
         - activate
@@ -10879,8 +10916,11 @@ MonoBehaviour:
         - buttonType
         - sendEvent
         - storeResult
-        paramDataPos: 0000000000000000010000000000000001000000010000000000000000000000000000000200000003000000070000000b0000000000000002000000
-        paramByteDataSize: 000000000000000000000000010000000100000000000000000000000000000000000000010000000400000004000000040000000000000000000000
+        - time
+        - finishEvent
+        - realTime
+        paramDataPos: 0000000000000000010000000000000001000000010000000000000000000000000000000200000003000000070000000b000000000000000200000001000000010000000f000000
+        paramByteDataSize: 000000000000000000000000010000000100000000000000000000000000000000000000010000000400000004000000040000000000000000000000000000000000000001000000
     - name: Take Photo 6
       description: 
       colorIndex: 0
@@ -16417,7 +16457,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1144268653
 Transform:
   m_ObjectHideFlags: 0
