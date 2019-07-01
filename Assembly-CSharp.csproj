@@ -429,6 +429,7 @@
     <Compile Include="Assets\PlayMaker Custom Actions\Application\TakeCameraScreenshot.cs" />
     <Compile Include="Assets\PlayMaker Custom Actions\Application\TakeCameraScreenshotTexture.cs" />
     <Compile Include="Assets\PlayMaker Custom Actions\Application\TakeScreenshotLateUpdate.cs" />
+    <Compile Include="Assets\PlayMaker Custom Actions\GameObject\ActivateGameObjects.cs" />
     <Compile Include="Assets\PlayMaker Custom Actions\Timeline\pauseTimeline.cs" />
     <Compile Include="Assets\PlayMaker Custom Actions\Timeline\playTimeline.cs" />
     <Compile Include="Assets\PlayMaker Custom Actions\Timeline\resumeTimeline.cs" />
