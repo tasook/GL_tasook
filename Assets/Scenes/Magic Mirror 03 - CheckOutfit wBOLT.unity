@@ -5918,12 +5918,12 @@ GameObject:
   - component: {fileID: 433426802}
   - component: {fileID: 433426801}
   m_Layer: 0
-  m_Name: BOLT Left
+  m_Name: BOLT Left 1
   m_TagString: BoltLeft
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &433426800
 Transform:
   m_ObjectHideFlags: 0
@@ -11056,6 +11056,7 @@ Transform:
   - {fileID: 1864659637}
   - {fileID: 607602866}
   - {fileID: 433426800}
+  - {fileID: 702485865}
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -11071,12 +11072,12 @@ GameObject:
   - component: {fileID: 607602868}
   - component: {fileID: 607602867}
   m_Layer: 0
-  m_Name: BOLT Right
+  m_Name: BOLT Right 1
   m_TagString: BoltRight
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &607602866
 Transform:
   m_ObjectHideFlags: 0
@@ -12708,6 +12709,69 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 691877525}
   m_Mesh: {fileID: 4300000, guid: 6ec0c875cb1c94e40afcad0a0161eb4e, type: 3}
+--- !u!1 &702485864
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 702485865}
+  - component: {fileID: 702485867}
+  - component: {fileID: 702485866}
+  m_Layer: 0
+  m_Name: BOLT Step_02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &702485865
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 702485864}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 604528334}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &702485866
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 702485864}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -57143145, guid: a040fb66244a7f54289914d98ea4ef7d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: c30e45e278d812f46b03f14189059601, type: 2}
+--- !u!114 &702485867
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 702485864}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1465209106, guid: c8d0ad23af520fe46aabe2b1fecf6462, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
 --- !u!1 &702659252
 GameObject:
   m_ObjectHideFlags: 0
@@ -28972,12 +29036,12 @@ GameObject:
   - component: {fileID: 1310317033}
   - component: {fileID: 1310317032}
   m_Layer: 0
-  m_Name: BOLT Back
+  m_Name: BOLT Back 1
   m_TagString: BoltBack
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1310317031
 Transform:
   m_ObjectHideFlags: 0
@@ -31193,7 +31257,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   previewOnGUI: 1
   enableGUILayout: 1
-  drawStateLabels: 1
+  drawStateLabels: 0
   enableStateLabelsInBuilds: 0
   GUITextureStateLabels: 0
   GUITextStateLabels: 0
@@ -32821,7 +32885,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"head","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"headRotation","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"takePic","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"boltRight","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"boltLeft","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"boltBack","value":{"$content":4,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"boltFront","value":{"$content":5,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"clickSound","value":{"$content":6,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"fourPics","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"An_02_01","value":{"$content":7,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"collection":{"$content":[{"name":"head","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"headRotation","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"takePic","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"boltRight","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"boltLeft","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"boltBack","value":{"$content":4,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"boltFront","value":{"$content":5,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"clickSound","value":{"$content":6,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"fourPics","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"An_02_01","value":{"$content":7,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"step02","value":{"$content":8,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 1300582666}
     - {fileID: 645666046}
@@ -32831,6 +32895,7 @@ MonoBehaviour:
     - {fileID: 1864659636}
     - {fileID: 277563626}
     - {fileID: 350568614}
+    - {fileID: 702485864}
 --- !u!4 &1614006084
 Transform:
   m_ObjectHideFlags: 0
@@ -35782,7 +35847,7 @@ GameObject:
   - component: {fileID: 1864659639}
   - component: {fileID: 1864659638}
   m_Layer: 0
-  m_Name: BOLT Front
+  m_Name: BOLT Front 1
   m_TagString: BoltFront
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
