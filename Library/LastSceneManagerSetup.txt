@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Magic Mirror 03 - CheckOutfit wBOLT.unity
+- path: Assets/Scenes/Pointer.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

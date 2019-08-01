@@ -1,0 +1,249 @@
+fileFormatVersion: 2
+guid: a0880649c38775b498b78c988bb22a0e
+ModelImporter:
+  serializedVersion: 25
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BatBlack
+    second: {fileID: 2100000, guid: 10f63165db6b41b41b60a6c67c0aca7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Batman_Head
+    second: {fileID: 2100000, guid: 47e37eb776f898e4c800ed85f2f28970, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cape
+    second: {fileID: 2100000, guid: 1dbadd8476941e543877777611e10fe2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bat_body_logo
+    second: {fileID: 2100000, guid: b0e574862914914488de6588c5288da3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn9SG
+    second: {fileID: 2100000, guid: 6bd7f918f8649d241834edf671384fdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eye
+    second: {fileID: 2100000, guid: d2f8286debee44b459777feefe4e54f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: legoBlue
+    second: {fileID: 2100000, guid: 22391afffc761ac4d9481244aa80e218, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: legoBlueLight
+    second: {fileID: 2100000, guid: 37191d9f89cbc7d41b585761aff12998, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: legoGreen
+    second: {fileID: 2100000, guid: ccf623fdc418fc94b994af2a6008ebe4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: legoOrange
+    second: {fileID: 2100000, guid: 1e759b5ec825f8f43be3d02f0e04df5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: legoRed
+    second: {fileID: 2100000, guid: 959ab2f45cd100c47ac3abd7c8102b56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: legoYellow
+    second: {fileID: 2100000, guid: 0419d7fd58f15e942a06c195daee9117, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lego_girl_Kissana_blinn2SG
+    second: {fileID: 2100000, guid: 272facfa984a233438e092bb4963a973, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lego_girl_Kissana_blinn3SG
+    second: {fileID: 2100000, guid: ce59b55b46e041c4799f5c127ce6de65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lego_girl_Kissana_blinn4SG
+    second: {fileID: 2100000, guid: e26781de08b34b34b82fa9e101397564, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lego_girl_Kissana_blinn5SG
+    second: {fileID: 2100000, guid: c54ec10e2935cb140a67f30a1625cacf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lego_girl_Kissana_blinn7SG
+    second: {fileID: 2100000, guid: 201678b0d9a0e124c842f02061b8a492, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lego_man_zak1_blinn3SG
+    second: {fileID: 2100000, guid: 81e4c0dd2a5e4ae449d258592ef5e9f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lego_man_zak1_blinn4SG
+    second: {fileID: 2100000, guid: 16838c75f5685014d93878f221fdd0bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lego_man_zak1_blinn5SG
+    second: {fileID: 2100000, guid: 39babc905f02259448a9ede1c4770a27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lego_man_zak1_blinn6SG
+    second: {fileID: 2100000, guid: 84d4fa2939a0cf04aad37cccbc89225e, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Haryach
+    second: {fileID: 2800000, guid: a8ddbc3e75086794789bfb3182110916, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: body_kissana_medsis
+    second: {fileID: 2800000, guid: a23f8a8b9b2717b4fbb738f4bbabc185, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: body_logo_bat
+    second: {fileID: 2800000, guid: 36f3b2c8a6853db438aacbca8b36ed7a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: body_zak1
+    second: {fileID: 2800000, guid: 81b6739829caaa640b24d508b805b445, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: face_Nikita
+    second: {fileID: 2800000, guid: 90e2a8ca54afa8345a9e988082fec455, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: face_bat_01
+    second: {fileID: 2800000, guid: 28a09b022d22bcd43842999f79f726d0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: face_haryach
+    second: {fileID: 2800000, guid: 3018aee15a21bac4596e6a4233e2d8a8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: face_kissana_medsis
+    second: {fileID: 2800000, guid: cc934694f4a03c245beb01c45856b2c7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: face_zak
+    second: {fileID: 2800000, guid: 1eb36e8f04bf8ae4b955264995d863e1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halat
+    second: {fileID: 2800000, guid: 58a298623a8e5744f925d8c2fd413d12, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
